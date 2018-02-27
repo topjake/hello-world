@@ -1,2 +1,3 @@
 # hello-world
-First GitHub Repository
+This is a readme file. I am learning how to use GitHub.
+Thanks for reading this file.
